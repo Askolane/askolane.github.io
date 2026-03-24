@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.askolane.sixteencells",
+      "sha256_cert_fingerprints": [
+        "D6:1A:64:F8:31:BB:C6:B3:46:AD:02:70:B9:F6:76:DC:1F:56:BD:8D:E7:B7:7A:98:EB:84:CD:33:A7:A2:49:64"
+      ]
+    }
+  }
+]
